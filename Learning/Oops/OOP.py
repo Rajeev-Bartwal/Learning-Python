@@ -8,9 +8,10 @@ class Computer:
         self.ram = ram
         self.ssd = ssd
 
+
     def __new__(cls, *args, **kwargs):
         print("in new")
-        return super(Computer, cls).__new__(cls)
+        return super().__new__(cls)
 
     def config(self):
         print(self.name , " config with -:" ,  self.cpu , self.ram , self.ssd)
@@ -19,6 +20,7 @@ class Computer:
 
 com = Computer("i5" , 'ASUS' , '16GB' , '512GB')
 com1 = Computer("i7" , 'Lenovo' , '18GB' , '512GB')
+
 
 com1.config()
 com.config()
