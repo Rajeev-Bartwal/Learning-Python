@@ -1,0 +1,10 @@
+Hello world
+this is a new content
+With append mode operation
+the old content will be not overriden
+firat lin
+sec. line
+third line
+first lin
+sec. line
+third line
