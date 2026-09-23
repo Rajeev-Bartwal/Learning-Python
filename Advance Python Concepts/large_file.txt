@@ -1,0 +1,17 @@
+Software Engineer with hands-on internship experience in building and deploying full-stack and backend applications using Java (Spring Boot), Go (Golang)
+ 1 follower · 0 following
+bartwalrajeev3@gmail.com
+Achievements
+Achievement: Quickdraw
+Achievement: Pull Shark
+Achievement: YOLO
+Rajeev-Bartwal/README.md
+Hi 👋, I'm Rajeev Bartwal
+A passionate Backend Developer from India
+🚀 About Me
+🔭 Previously worked on OWE-Hub
+🌱 Currently learning JavaScript & React
+🤝 Looking for help with Backend Development
+💬 Ask me about Backend, APIs, Databases
+📫 Reach me at: bartwalrajeev3@gmail.com
+⚡ Fun fact: Backend is my comfort zone
