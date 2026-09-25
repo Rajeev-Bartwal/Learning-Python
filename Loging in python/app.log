@@ -3,3 +3,13 @@
 2026-09-24 16:00:48-root-WARNING-This is a warning message
 2026-09-24 16:00:48-root-ERROR-this is a error message
 2026-09-24 16:00:48-root-CRITICAL-This is a critical message
+26-09-24 16:31:12-AirthematicApp-DEBUG- Adding : 4 + 6 = 10
+26-09-24 16:31:12-AirthematicApp-DEBUG- multiplying : 8 * 7 = 56
+26-09-24 16:31:12-AirthematicApp-DEBUG- deviding : 9 / 3 = 3.0
+26-09-24 16:31:12-AirthematicApp-ERROR- division by zero
+26-09-24 16:31:12-AirthematicApp-DEBUG- subtracting : 19 - 5 = 14
+26-09-24 16:31:24-AirthematicApp-DEBUG- Adding : 4 + 6 = 10
+26-09-24 16:31:24-AirthematicApp-DEBUG- multiplying : 8 * 7 = 56
+26-09-24 16:31:24-AirthematicApp-DEBUG- deviding : 9 / 3 = 3.0
+26-09-24 16:31:24-AirthematicApp-ERROR- division by zero
+26-09-24 16:31:24-AirthematicApp-DEBUG- subtracting : 19 - 5 = 14
